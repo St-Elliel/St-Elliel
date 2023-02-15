@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem Solving, Computers, Cars and Reading!
 - 🌱 I’m currently learning how to code in all type of languages
 - 💞️ I’m looking to collaborate on projects and team activities once i get good enough.
-- 📫 How to reach me ....Not Now!
+- 📫 How to reach me .... Email: st.markl@yahoo.com
 
 <!---
 St-Elliel/St-Elliel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
